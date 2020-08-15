@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.num-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.num {
+  background-color: aqua;
+  margin: 2px;
+  width: 25px;
+}
